@@ -5,3 +5,7 @@
    - downloads a youtube playlist and saves in current directory using youtube-dl software.
 3. convert.py 
    - converts media files in specified directory using ffmpeg and deletes original. -w means recursively.
+4. sendtomega.bat
+   - nothing special, simple command using rclone to copy a folder to mega. Assuming there is a directory named megalocal on mega and remote=mega in rclone.
+5. markdown.bat
+   - open a folder in sublime text.

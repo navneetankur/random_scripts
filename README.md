@@ -9,3 +9,5 @@
    - nothing special, simple command using rclone to copy a folder to mega. Assuming there is a directory named megalocal on mega and remote=mega in rclone.
 5. markdown.bat
    - open a folder in sublime text.
+6. make_index_of_directory
+   - recursively traverses the directory and lists files.

@@ -11,3 +11,4 @@
    - open a folder in sublime text.
 6. make_index_of_directory
    - recursively traverses the directory and lists files.
+7. scraping/mylib.py - some functions to help with web scraping
